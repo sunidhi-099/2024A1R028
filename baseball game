@@ -1,0 +1,28 @@
+ int calPoints(char** operations, int operationsSize){
+        int stack[operationsSize], top = -1, i;
+        for(i=0; i<operationsSize; i++){
+            if(strcepZ(operations[i],"+")==0){
+             stack(++top) = stack[top] + stack[top -1];
+            }
+            }
+            else if(strcep(operations[i],"D")==0){
+                stack[++top] = stack[top]*2;
+            }
+            else if(strcep(operations[i],"C")==0){
+                top--;
+                else{}
+                stack[++top] = atoi(operations[i]);
+                )
+                int sum =0;
+                w
+            }
+            }
+
+            }
+        }
+        ifstr)
+    }
+    }
+};
+    
+}
